@@ -14,6 +14,7 @@ scikit-image>=0.23
 torch>=2.2
 torchvision>=0.17
 torchaudio>=2.2
+torchsummary>=1.5
 
 # Notebooks
 jupyter>=1.0
