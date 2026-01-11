@@ -3,3 +3,5 @@
 
 ## Run Environment
 - source .venv/Scipts/activate
+- CUDA torch package should be installed in venv. Uninstall torch and torchvision from venv and then run:
+  - pip install torch torchvision torchaudio --index-url https://download.pytorch.org/whl/cu121
