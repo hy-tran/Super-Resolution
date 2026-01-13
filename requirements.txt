@@ -19,3 +19,6 @@ torchsummary>=1.5
 # Notebooks
 jupyter>=1.0
 ipykernel>=6.29
+
+# Utilities
+tqdm>=4.66
