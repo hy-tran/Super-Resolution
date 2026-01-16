@@ -5,6 +5,7 @@ pandas>=2.1
 # Visualization
 matplotlib>=3.8
 seaborn>=0.13
+opencv-python-headless>=4.9
 
 # Machine Learning
 scikit-learn>=1.4
